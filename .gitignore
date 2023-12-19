@@ -1,2 +1,5 @@
 /__pycache__
+test/__pycache__
+/.pytest_cache
 /flask_session
+config

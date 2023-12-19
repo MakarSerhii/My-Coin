@@ -5,3 +5,4 @@ requests
 flask_mail
 cs50
 flask_session
+pytest
